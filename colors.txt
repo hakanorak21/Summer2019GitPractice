@@ -5,3 +5,4 @@ azure
 rose
 cyber yellow
 blue
+violet
