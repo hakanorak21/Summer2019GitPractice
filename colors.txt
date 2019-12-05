@@ -4,3 +4,4 @@ cyan
 azure
 rose
 cyber yellow
+blue
