@@ -1,5 +1,9 @@
 package code;
 
 public class Person {
-    int age;
+    private int age;
+
+    public Person (int age){
+        this.age = age;
+    }
 }

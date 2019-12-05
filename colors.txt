@@ -1,6 +1,1 @@
 green
-red
-yellow
-blue
-black
-
