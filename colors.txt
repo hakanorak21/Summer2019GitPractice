@@ -1,10 +1,1 @@
 green
-green
-red
-yellow
-blue
-black
-white
-purple
-navy blue
-pink
