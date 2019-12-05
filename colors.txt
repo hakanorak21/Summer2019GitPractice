@@ -2,3 +2,4 @@ green
 red
 cyan
 azure
+rose
