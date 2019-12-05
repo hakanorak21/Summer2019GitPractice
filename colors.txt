@@ -5,3 +5,4 @@ yellow
 blue
 black
 white
+purple
