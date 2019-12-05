@@ -6,3 +6,5 @@ blue
 black
 white
 purple
+navy blue
+pink
